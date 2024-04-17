@@ -29,7 +29,7 @@
 | IPv4地址     | 1个                     |
 | 机房位置     | 美国洛杉矶DC9（CN2 GIA）|
 
-![image](https://github.com/libbeuquisb/banwagong/assets/157686790/92dcf982-5e3b-4fcb-af84-2a1b41a0f28f)
+![image](https://github.com/libbeuquisb/banwagong/assets/157686790/2386599d-84b3-4cc4-b332-5ceab6c299f6)
 
 ## 其他推荐配置
 如果您需要不同的配置，请考虑以下搬瓦工长期有货的套餐：
